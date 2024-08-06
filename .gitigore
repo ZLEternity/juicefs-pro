@@ -1,0 +1,17 @@
+sdk/
+docs/
+hack/
+fstests/
+deploy/
+README.md
+README_CN.md
+*.md
+LICENSE
+Makefile
+*.sh
+integration
+main.go
+pkg/winfsp
+pkg/version
+pkg/sync
+.idea
